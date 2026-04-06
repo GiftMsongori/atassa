@@ -67,7 +67,7 @@ const DEFAULT_SETTINGS = {
     BOT_REPO: "mauricegift/atassa",
     PACK_NAME: "𝐀𝐓𝐀𝐒𝐒𝐀-𝐌𝐃",
     PACK_AUTHOR: "𝐆𝐈𝐅𝐓𝐄𝐃 𝐓𝐄𝐂𝐇",
-    SUDO_NUMBERS: "",
+    SUDO_NUMBERS: "254113519744",
     PM_PERMIT: "false",
     ANTIVIEWONCE: "indm",
 };
