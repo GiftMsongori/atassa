@@ -54,7 +54,7 @@ const DEFAULT_SETTINGS = {
     AUTO_READ_STATUS: config.AUTO_READ_STATUS || "true",
     STATUS_LIKE_EMOJIS: "💛,❤️,💜,🤍,💙",
     AUTO_REPLY_STATUS: "false",
-    STATUS_REPLY_TEXT: "*ʏᴏᴜʀ sᴛᴀᴛᴜs ᴠɪᴇᴡᴇᴅ sᴜᴄᴄᴇssғᴜʟʟʏ ✅*",
+    STATUS_REPLY_TEXT: "*Niko kutu njoo nikudinye walai ✅*",
     AUTO_REACT: "off",
     AUTO_REPLY: "false",
     AUTO_READ_MESSAGES: "off",
